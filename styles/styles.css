@@ -61,6 +61,7 @@ p.paragraf {
   color: #ffffff;
   margin-top: 30px;
   text-decoration: none;
+  cursor: pointer;
 }
 h3 {
   width: 79px;
